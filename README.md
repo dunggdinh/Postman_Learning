@@ -76,9 +76,9 @@ https://jsonplaceholder.typicode.com/users
 
 Thành công
 
-### Hình Minh Họa
+### Kiểm thử
 
-![GET Users](screenshots/get-users.png)
+<img width="1920" height="1080" alt="Test_1" src="https://github.com/user-attachments/assets/ca2c2b49-53d4-4fbc-bcda-8adfbbb30969" />
 
 ---
 
@@ -122,9 +122,9 @@ https://jsonplaceholder.typicode.com/users/1
 
 Thành công
 
-### Hình Minh Họa
+### Kiểm thử
 
-![GET User](screenshots/get-user-by-id.png)
+<img width="1920" height="1080" alt="Test_2" src="https://github.com/user-attachments/assets/1bc4b9ea-0f68-4bfc-87bf-96a994d1e04a" />
 
 ---
 
@@ -178,9 +178,9 @@ https://jsonplaceholder.typicode.com/users
 
 Thành công
 
-### Hình Minh Họa
+### Kiểm thử
 
-![POST User](screenshots/post-user.png)
+<img width="1920" height="1080" alt="Test_3" src="https://github.com/user-attachments/assets/870d3769-c0b9-4b3f-88bb-7d3cd6115d13" />
 
 ---
 
@@ -227,9 +227,9 @@ API trả về dữ liệu cập nhật thành công.
 
 Thành công
 
-### Hình Minh Họa
+### Kiểm thử
 
-![PUT User](screenshots/update-user.png)
+<img width="1920" height="1080" alt="Test_4" src="https://github.com/user-attachments/assets/092e5c38-1ab3-4535-b2fb-661cc921cea5" />
 
 ---
 
@@ -267,9 +267,9 @@ API trả về thành công.
 
 Thành công
 
-### Hình Minh Họa
+### Kiểm thử
 
-![DELETE User](screenshots/delete-user.png)
+<img width="1920" height="1080" alt="Test_5" src="https://github.com/user-attachments/assets/b22c0d59-2d4f-4d32-a382-fd26ccc5be7b" />
 
 ---
 
@@ -289,9 +289,9 @@ pm.test("Status code is 200", function () {
 ✓ Status code is 200
 ```
 
-### Hình Minh Họa
+### Kiểm thử
 
-![Test Script](screenshots/test-script.png)
+<img width="1920" height="1080" alt="Automated Testing " src="https://github.com/user-attachments/assets/2de6de90-361d-4930-bab5-0e3138723e0b" />
 
 ---
 
