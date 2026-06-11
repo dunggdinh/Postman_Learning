@@ -38,8 +38,6 @@ https://jsonplaceholder.typicode.com
 
 # 4. Kịch Bản Kiểm Thử
 
----
-
 ## Kịch Bản Kiểm Thử Lần 1
 
 ### Tên Kịch Bản
@@ -155,7 +153,7 @@ https://jsonplaceholder.typicode.com/users
 ```json
 {
   "name": "Dung",
-  "email": "dung@example.com"
+  "email": "lmao@example.com"
 }
 ```
 
@@ -169,7 +167,7 @@ https://jsonplaceholder.typicode.com/users
 ```json
 {
   "name": "Dung",
-  "email": "dung@example.com",
+  "email": "lmao@example.com",
   "id": 11
 }
 ```
